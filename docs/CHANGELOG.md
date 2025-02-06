@@ -1,6 +1,6 @@
 # Common.Utilities
 
-### 05/02/2025 - Version 1.0.1
+### 06/02/2025 - Version 1.0.1
 - Added Logger, Azure AppInsights Telemetry, 
 - Added Request Behaviours for MediatR Pipelines (`LoggingBehaviour`, `UnhandledExceptionBehaviour`, `ValidationBehaviour`, `PerformanceBehaviour`, `RequestPostProcessBehaviour`)
 - Added `ValidationException` exception
